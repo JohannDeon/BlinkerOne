@@ -1,12 +1,12 @@
 ---
 
-# DEONGotchi — Open Source Console & Versatile Companion
+# Blinker One — Open Source Console & Versatile Companion
 
 ![Brand](https://img.shields.io/badge/Brand-DEON%20electronics-blue)
 ![Hardware](https://img.shields.io/badge/Hardware-ESP32--S3--N16R8-orange)
 ![License](https://img.shields.io/badge/License-Open%20Source-green)
 
-**DEONGotchi** is an **open source** handheld console based on the **ESP32‑S3**, designed as a **versatile tool**:
+**Blinker One** is an **open source** handheld console based on the **ESP32‑S3**, designed as a **versatile tool**:
 
 - 🎮 **Retro game emulation** (old consoles, simple homebrew games)  
 - 🧬 **Custom virtual environments** or small DIY “OS‑like” systems  
@@ -20,7 +20,7 @@ The goal is not just to build a “modern Tamagotchi”, but a **modular platfor
 ## Project Goals
 
 - **Open hardware & open firmware**: public schematics, PCB, code, and examples  
-- **Versatility**: allow DEONGotchi to become:
+- **Versatility**: allow Blinker One to become:
   - A mini emulation console (NES‑like, GB‑like, simple retro games)
   - A virtual assistant, interactive companion, or custom “micro OS”
   - A smart home remote (MQTT, HTTP, BLE, etc.)
@@ -49,7 +49,7 @@ The goal is not just to build a “modern Tamagotchi”, but a **modular platfor
 
 The **XC6220B331MR** regulator provides a stable 3.3V rail even when the LiPo battery drops below ~3.4V, helping to avoid random resets during current peaks from Wi‑Fi or audio output.
 
-This makes DEONGotchi suitable for **long‑running use cases** such as dashboards, home automation control, or always‑on companions.
+This makes Blinker One suitable for **long‑running use cases** such as dashboards, home automation control, or always‑on companions.
 
 ---
 
@@ -98,7 +98,7 @@ The DRV2605L can play complex vibration patterns independent of audio, making it
 
 ## Memory & Performance
 
-With **8MB of PSRAM**, DEONGotchi can:
+With **8MB of PSRAM**, Blinker One can:
 
 - Store multiple **framebuffers** for smooth graphics (games, animations, dashboards)  
 - Use larger **audio buffers**  
@@ -165,7 +165,7 @@ Used for:
 - Create your own **virtual pet**, assistant, or simulation  
 - Display character states, stats, or environments on screen  
 - Store save files and states on microSD  
-- Use haptics/audio to give personality to the companion
+- Use haptics/audio to give personality to your companion
 
 ### 3. Home Automation Controller
 
@@ -173,7 +173,7 @@ Used for:
 - Communicate via Wi‑Fi (MQTT/HTTP) or BLE with your smart home system  
 - Use vibrations and sounds as confirmation or error feedback  
 
-DEONGotchi can act as a **dedicated, physical remote** for your smart home.
+Blinker One can act as a **dedicated, physical remote** for your smart home.
 
 ### 4. Portable Dashboard / Monitor
 
