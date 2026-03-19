@@ -1,7 +1,7 @@
 
 ---
 
-# 🐾 DEONGotchi — Console Open Source & Companion Polyvalent
+# DEONGotchi — Console Open Source & Companion Polyvalent
 
 ![Brand](https://img.shields.io/badge/Brand-DEON%20electronics-blue)
 ![Hardware](https://img.shields.io/badge/Hardware-ESP32--S3--N16R8-orange)
@@ -18,7 +18,7 @@ Le but n’est pas seulement de faire un “Tamagotchi moderne”, mais une **pl
 
 ---
 
-## 🎯 Objectifs du Projet
+## Objectifs du Projet
 
 - **Open hardware & open firmware** : schémas, PCB, code et exemples publics.
 - **Polyvalence** : pouvoir transformer le DEONGotchi en :
@@ -31,7 +31,7 @@ Le but n’est pas seulement de faire un “Tamagotchi moderne”, mais une **pl
 
 ---
 
-## 🛠️ Matériel (BOM principale)
+## Matériel (BOM principale)
 
 | Catégorie      | Référence                | Fonction                                        |
 | -------------- | ------------------------ | ----------------------------------------------- |
@@ -46,7 +46,7 @@ Le but n’est pas seulement de faire un “Tamagotchi moderne”, mais une **pl
 
 ---
 
-## ⚙️ Configuration Hardware
+## Configuration Hardware
 
 ### Gestion de l’énergie
 
@@ -79,7 +79,7 @@ Chaque direction est tirée à l’état haut via résistance de pull-up et pass
 
 ---
 
-## 🧠 Capacités logicielles
+## Capacités logicielles
 
 Grâce aux **8MB de PSRAM**, le DEONGotchi peut :
 
@@ -111,7 +111,7 @@ Grâce aux **8MB de PSRAM**, le DEONGotchi peut :
 
 ---
 
-## 🕹️ Exemples de cas d’usage
+## Exemples de cas d’usage
 
 - **Mini-console d’émulation**  
   - Lancer des émulateurs simples (8-bit / 16-bit light)  
@@ -135,7 +135,7 @@ Grâce aux **8MB de PSRAM**, le DEONGotchi peut :
 
 ---
 
-## 🧩 Stack logicielle & Frameworks
+## Stack logicielle & Frameworks
 
 Le projet vise à rester **flexible** : tu peux choisir ton environnement :
 
@@ -153,7 +153,7 @@ Le dépôt fournit (ou fournira) :
 
 ---
 
-## 🚧 État du projet
+## État du projet
 
 - [ ] Hardware Vx validé / en cours d’itération  
 - [ ] Drivers de base (écran, audio, haptique, joystick)  
@@ -164,7 +164,7 @@ Les informations peuvent évoluer, certaines parties sont encore expérimentales
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Les contributions sont bienvenues :
 
@@ -180,7 +180,7 @@ Tu peux :
 
 ---
 
-## 🛡️ Licence & Crédits
+## Licence & Crédits
 
 - Projet open source initié par **DEON electronics**  
 - Hardware & firmware publiés sous licences ouvertes (à préciser : MIT, GPL, CERN OHL, etc.)
