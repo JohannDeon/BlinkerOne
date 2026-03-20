@@ -1,4 +1,5 @@
----
+## Repository Structure
+
 BlinkerOne
 ├── Documents
 │   ├── Critical_Item_Development_Specification(CIDS).pdf
@@ -12,9 +13,7 @@ BlinkerOne
 └── Software
     ├── Sources/
     └── BlinkerOne_MAIN_FlowDiagram.pdf
-    
-
-
+---
 # Blinker One - Open Source Console & Versatile Companion
 
 ![Brand](https://img.shields.io/badge/Brand-DEON%20electronics-blue)
