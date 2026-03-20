@@ -1,6 +1,6 @@
 ---
 ## Repository Structure
-<!-- TREEVIEW START -->
+```bash
 BlinkerOne
 ├── Documents
 │   ├── Critical_Item_Development_Specification(CIDS).pdf
@@ -14,7 +14,7 @@ BlinkerOne
 └── Software
     ├── Sources/
     └── BlinkerOne_MAIN_FlowDiagram.pdf
-<!-- TREEVIEW END -->
+```
 ---
 # Blinker One - Open Source Console & Versatile Companion
 
