@@ -1,6 +1,7 @@
 ---
 ## Repository Structure
-```bash
+
+```
 BlinkerOne
 ├── Documents
 │   ├── Critical_Item_Development_Specification(CIDS).pdf
@@ -15,6 +16,7 @@ BlinkerOne
     ├── Sources/
     └── BlinkerOne_MAIN_FlowDiagram.pdf
 ```
+
 ---
 # Blinker One - Open Source Console & Versatile Companion
 
