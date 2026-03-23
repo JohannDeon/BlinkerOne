@@ -26,8 +26,8 @@ BlinkerOne
 .
 ├── Documents
 │   ├── Critical_Item_Development_Specification(CIDS).pdf
-│   ├── Hardware_Description_Document(HDD).pdf
-│   ├── Software_Description_Document(SDD).pdf
+│   ├── Hardware_Design_Description(HDD).pdf
+│   ├── Software_Design_Description(SDD).pdf
 │   └── Components_Derating.pdf
 ├── Hardware
 │   ├── Gerber/
