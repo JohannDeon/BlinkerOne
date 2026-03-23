@@ -2,6 +2,7 @@
 
 🚧 **Work in progress** — waiting for some components before the next hardware tests.
 
+![screenshot](Documents/Images/BlinkerOne board.png)
 ![screenshot](Documents/Images/3D_PCB_1.png)
 
 ## What is it?
